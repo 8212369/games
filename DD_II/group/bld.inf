@@ -1,0 +1,18 @@
+/*
+============================================================================
+ Name		: bld.inf
+ Author	  : 
+ Copyright   : Your copyright notice
+ Description : This file provides the information required for building the
+				whole of a DD_II_Crack.
+============================================================================
+*/
+
+PRJ_PLATFORMS
+DEFAULT
+
+PRJ_EXPORTS
+..\inc\DD_II_Crack.h
+
+PRJ_MMPFILES
+DD_II_Crack.mmp

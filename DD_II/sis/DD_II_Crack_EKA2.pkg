@@ -1,0 +1,21 @@
+; Installation file for DD_II_Crack dll
+;
+; This is an auto-generated PKG file by Carbide.
+; This file uses variables specific to Carbide builds that will not work
+; on command-line builds. If you want to use this generated PKG file from the
+; command-line tools you will need to modify the variables with the appropriate
+; values: $(EPOCROOT), $(PLATFORM), $(TARGET)
+
+;
+; UID is the dll's UID
+;
+#{"DD_II_Crack DLL"},(0xe9acde25),1,0,0
+
+
+;Localised Vendor name
+%{"Vendor-EN"}
+
+;Unique Vendor name
+:"Vendor"
+
+"$(EPOCROOT)epoc32\release\$(PLATFORM)\$(TARGET)\DD_II_Crack.dll"		  -"!:\sys\bin\DD_II_Crack.dll"
